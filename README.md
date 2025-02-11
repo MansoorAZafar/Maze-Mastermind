@@ -1,2 +1,7 @@
 # Story-Game
-TODO
+A Game made with ??? 
+ - Creators:
+  - ??? @gitHub
+  - ??? @gitHub
+
+
