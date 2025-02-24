@@ -1,7 +1,7 @@
-# Story-Game
+# Maze Master-Mind
 A Game made with ??? 
  - Creators:
-  - ??? @gitHub
-  - ??? @gitHub
+  - [@Pawanjot-Randhawa](https://github.com/Pawanjot-Randhawa)
+  - [@MansoorAZafar](https://github.com/MansoorAZafar)
 
 
