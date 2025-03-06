@@ -4,4 +4,4 @@ A Game made with ???
   - [@Pawanjot-Randhawa](https://github.com/Pawanjot-Randhawa)
   - [@MansoorAZafar](https://github.com/MansoorAZafar)
 
-
+## How it works
